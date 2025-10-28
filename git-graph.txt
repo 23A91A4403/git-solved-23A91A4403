@@ -1,0 +1,25 @@
+* 5fa0f88 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 56f519f docs: Add Git journey documentation
+| * c90abb3 (feature/another-feature) Revert "Bad commit"
+| * f2d0fc5 Bad commit
+| * a7484d5 (origin/feature/another-feature) feat: Add test feature
+|/  
+* 6260694 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+| * bfdb848 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+| * 6da211b (refs/stash) On feature/new-feature: WIP: New feature development
+|/| 
+| * 06243ad index on feature/new-feature: 0718d8d resolved merge conflicts of phase 3
+|/  
+*   0718d8d resolved merge conflicts of phase 3
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 3af741c Add checkpoint2.png
+* | 620f246 merge: Resolve all conflicts between main and dev branches
+* | 132aeda Add checkpoint1 screenshot
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * 02011a5 (instructor/dev, dev) updating dev
+|/  
+* ae630eb Initial commit
