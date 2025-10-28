@@ -39,3 +39,5 @@ $env:DEPLOY_ENV="production"
 
 # Run deployment script
 ./scripts/deploy.sh
+## FAQ
+update
